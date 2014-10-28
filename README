@@ -1,5 +1,11 @@
 This project is seriously awesome, you guys.
 
+<<<<<<< HEAD
 This project will help ME learn about working with repositories.
 
 Making another cool change.
+=======
+Hey, this is a great change.
+
+This project will help ME learn about working with repositories.
+>>>>>>> foo_feature
